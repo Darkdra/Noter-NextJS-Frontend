@@ -36,3 +36,7 @@ typings/
 
 # next file
 .next/
+
+# env
+.env
+.env.local
