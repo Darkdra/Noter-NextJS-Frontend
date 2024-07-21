@@ -7,5 +7,5 @@ export default function Home() {
         <SignIn />
       </div>
     </main>
-  );
+  )
 }
